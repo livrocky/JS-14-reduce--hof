@@ -1,7 +1,7 @@
 const students = [
   {
     name: "James",
-    gender: "make",
+    gender: "male",
     age: 25,
     town: "Vilnius",
     hasCar: true,
@@ -25,6 +25,27 @@ const students = [
     gender: "female",
     age: 22,
     town: "Klaipeda",
+    hasCar: false,
+  },
+  {
+    name: "Jannet",
+    gender: "female",
+    age: 29,
+    town: "Klaipeda",
+    hasCar: true,
+  },
+  {
+    name: "Cory",
+    gender: "male",
+    age: 30,
+    town: "Siauliai",
+    hasCar: true,
+  },
+  {
+    name: "Minks",
+    gender: "male",
+    age: 19,
+    town: "Siauliai",
     hasCar: false,
   },
 ];
