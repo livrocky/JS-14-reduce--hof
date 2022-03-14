@@ -13,7 +13,7 @@ console.log("names===", names);
 names.sort((a, b) => (b > a ? 1 : -1));
 console.log(names);
 
-//3. Nusikopijuok array ([5, 10, 20, 11, 12, 1, 0, 14, 25]) ir su JS sudėliok mažėjimo tvarka (nuo didžiausio, iki mažiausio).
+//3. Nusikopijuok array ([5, 10, 20, 11, 12, 1, 0, 14, 25]) ir su JS sudėliok mažėjimo tvarka (nuo didžiausio, iki mažiausio)..
 
 const numbers = [5, 10, 20, 11, 12, 1, 0, 14, 25];
 numbers.sort((a, b) => b - a);

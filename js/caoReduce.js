@@ -1,4 +1,4 @@
-//1. Parašyk array su penkiais mėgstamiausiais tavo skaičiais. Su reduce visus juos sudėk ir grąžink vieną skaičių.
+//1. Parašyk array su penkiais mėgstamiausiais tavo skaičiais. Su reduce visus juos sudėk ir grąžink vieną skaičių..
 
 const numbers = [12, 66, 24, 64, 45];
 const sum = numbers.reduce((a, b) => a + b);
